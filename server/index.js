@@ -85,4 +85,4 @@ app.listen(PORT, () => {
     console.log(`--- Ambulance Server ---`);
     console.log(`Running on http://localhost:${PORT}`);
     console.log(`Ready to calculate intercept points.`);
-});
+}) ;
